@@ -1,3 +1,3 @@
 # learning-github
-This is my first repository for learning git.
+This is my first repository for learning github.
 Author - Abhay Singh
